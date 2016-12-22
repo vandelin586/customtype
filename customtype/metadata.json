@@ -1,0 +1,33 @@
+{
+  "name": "vandelin586-customtype",
+  "version": "0.1.0",
+  "author": "vandelin586",
+  "summary": "This module is will be used to test creating custom types",
+  "license": "Apache-2.0",
+  "source": "https://github.com/vandelin586/customtype",
+  "project_page": "README",
+  "issues_url": "git hub",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ]
+}
